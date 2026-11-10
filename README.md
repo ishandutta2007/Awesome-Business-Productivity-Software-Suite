@@ -126,84 +126,84 @@ For organizations prioritizing **data sovereignty**, offline resiliency, zero ve
 
 ### Open-Source Solutions Ranked by Stars
 
-> Repositories are sorted in descending order by GitHub stargazer count. Each repository includes a social star badge linking to its official stargazers page.
+> Repositories are sorted in descending order by GitHub stargazer count. Each repository includes a social Stars_Badge linking to its official stargazers page.
 
-1. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+1. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
    *Open-source Notion alternative for wikis, notes, tasks, and project tracking.*  
    Built with Flutter and Rust to offer speed, privacy, and full offline-first functionality. Self-hostable via Docker with end-to-end data control.  
    `Tags:` `#notes #wiki #offline-first #flutter #rust`
 
-2. **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+2. **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
    *Next-generation visual workspace uniting docs, whiteboards, and database tables in one canvas.*  
    True canvas-first productivity workspace combining the flexibility of Miro with the structure of Notion and Google Docs.  
    `Tags:` `#workspace #canvas #whiteboard #docs #realtime`
 
-3. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+3. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
    *Open-source Airtable alternative that turns any relational database into a smart spreadsheet.*  
    Connects directly to MySQL, PostgreSQL, Microsoft SQL Server, and SQLite, enabling visual grids, galleries, kanbans, and automated workflows.  
    `Tags:` `#database #nocode #airtable-alternative #sql #spreadsheet`
 
-4. **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+4. **[Outline](https://github.com/outline/outline)** [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
    *Fast, collaborative team knowledge base and documentation platform.*  
    Features structured markdown editing, instant search, granular team permissions, and integrations with Slack, Figma, and Google Workspace.  
    `Tags:` `#knowledge-base #wiki #markdown #documentation #collaboration`
 
-5. **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+5. **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
    *Turnkey self-hosted content collaboration and productivity hub.*  
    Provides on-premises file sync, sharing, calendar, mail, contacts, and real-time audio/video calls with comprehensive enterprise compliance tools.  
    `Tags:` `#private-cloud #file-storage #self-hosted #enterprise`
 
-6. **[DocuSeal](https://github.com/docusealco/docuseal)** [![GitHub stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)  
+6. **[DocuSeal](https://github.com/docusealco/docuseal)** [![GitHub_Stars](https://img.shields.io/github/stars/docusealco/docuseal?style=social&color=white)](https://github.com/docusealco/docuseal/stargazers)  
    *Open-source document signing and digital contract workflow platform.*  
    Self-hosted DocuSign alternative for creating PDF forms, collecting legally binding digital signatures, and automating document signing pipelines.  
    `Tags:` `#digital-signature #pdf #contracts #workflow #docusign-alternative`
 
-7. **[Etherpad](https://github.com/ether/etherpad-lite)** [![GitHub stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers)  
+7. **[Etherpad](https://github.com/ether/etherpad-lite)** [![GitHub_Stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers)  
    *Real-time collaborative text editor with version playback and plugin ecosystem.*  
    Lightweight, highly responsive editor designed to be integrated or run standalone for concurrent document drafting and collaborative notes.  
    `Tags:` `#realtime #collaborative-editor #nodejs #embeddable`
 
-8. **[Grist](https://github.com/gristlabs/grist-core)** [![GitHub stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=social&color=white)](https://github.com/gristlabs/grist-core/stargazers)  
+8. **[Grist](https://github.com/gristlabs/grist-core)** [![GitHub_Stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=social&color=white)](https://github.com/gristlabs/grist-core/stargazers)  
    *Relational spreadsheet-database hybrid with full Python formula execution.*  
    Combines the intuitive tabular interface of Excel with the relational integrity and view layouts of a structured database.  
    `Tags:` `#spreadsheet #database #python #self-hosted`
 
-9. **[CryptPad](https://github.com/cryptpad/cryptpad)** [![GitHub stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
+9. **[CryptPad](https://github.com/cryptpad/cryptpad)** [![GitHub_Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
    *End-to-end encrypted, zero-knowledge collaborative office suite.*  
    Features encrypted rich text, spreadsheets, presentations, code editors, and kanban boards where the host server has zero visibility into user data.  
    `Tags:` `#zero-knowledge #e2ee #privacy #collaboration`
 
-10. **[HedgeDoc](https://github.com/hedgedoc/hedgedoc)** [![GitHub stars](https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social&color=white)](https://github.com/hedgedoc/hedgedoc/stargazers)  
+10. **[HedgeDoc](https://github.com/hedgedoc/hedgedoc)** [![GitHub_Stars](https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social&color=white)](https://github.com/hedgedoc/hedgedoc/stargazers)  
     *Real-time collaborative Markdown editor with interactive presentation slides.*  
     Supports live dual-pane preview, math notation (MathJax), diagrams (Mermaid, PlantUML), and instant slide deck rendering from markdown.  
     `Tags:` `#markdown #slides #mermaid #collaboration #realtime`
 
-11. **[ONLYOFFICE Document Server](https://github.com/ONLYOFFICE/DocumentServer)** [![GitHub stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers)  
+11. **[ONLYOFFICE Document Server](https://github.com/ONLYOFFICE/DocumentServer)** [![GitHub_Stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers)  
     *Enterprise-grade self-hosted document editing server (AGPLv3).*  
     Provides seamless browser-based co-authoring for DOCX, XLSX, and PPTX files with 100% Microsoft compatibility. Connects to Nextcloud, ownCloud, and Seafile via API.  
     `Tags:` `#ooxml #office-suite #self-hosted #docker #agpl`
 
-12. **[Standard Notes App](https://github.com/standardnotes/app)** [![GitHub stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)  
+12. **[Standard Notes App](https://github.com/standardnotes/app)** [![GitHub_Stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)  
     *End-to-end encrypted notes and workspace suite.*  
     A secure sanctuary for thoughts, sensitive credentials, code snippets, and spreadsheets, backed by audited client-side encryption algorithms.  
     `Tags:` `#encrypted #security #privacy #notes #cross-platform`
 
-13. **[LibreOffice Core](https://github.com/LibreOffice/core)** [![GitHub stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers)  
+13. **[LibreOffice Core](https://github.com/LibreOffice/core)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreOffice/core?style=social&color=white)](https://github.com/LibreOffice/core/stargazers)  
     *The definitive open-source desktop office suite from The Document Foundation.*  
     Bundles Writer, Calc, Impress, Draw, Base, and Math. Standardizes on OpenDocument Format (ODF), runs 100% offline, and enforces zero telemetry.  
     `Tags:` `#desktop #odf #offline #document-foundation #c++`
 
-14. **[Collabora Online](https://github.com/CollaboraOnline/online)** [![GitHub stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=social&color=white)](https://github.com/CollaboraOnline/online/stargazers)  
+14. **[Collabora Online](https://github.com/CollaboraOnline/online)** [![GitHub_Stars](https://img.shields.io/github/stars/CollaboraOnline/online?style=social&color=white)](https://github.com/CollaboraOnline/online/stargazers)  
     *Browser-based collaborative office engine built upon LibreOffice technology.*  
     Offers real-time co-authoring directly on private servers or Kubernetes clusters, protecting documents from unauthorized cloud data mining.  
     `Tags:` `#libreoffice #wopi #self-hosted #collaborative #docker`
 
-15. **[Apache OpenOffice](https://github.com/apache/openoffice)** [![GitHub stars](https://img.shields.io/github/stars/apache/openoffice?style=social&color=white)](https://github.com/apache/openoffice/stargazers)  
+15. **[Apache OpenOffice](https://github.com/apache/openoffice)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/openoffice?style=social&color=white)](https://github.com/apache/openoffice/stargazers)  
     *Legacy open-source office suite under the Apache Software Foundation.*  
     Provides stable, non-cloud desktop office applications (Writer, Calc, Impress) for users seeking a lightweight, unchanging interface.  
     `Tags:` `#desktop #apache #legacy #office`
 
-16. **[Nextcloud Office](https://github.com/nextcloud/richdocuments)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/richdocuments?style=social&color=white)](https://github.com/nextcloud/richdocuments/stargazers)  
+16. **[Nextcloud Office](https://github.com/nextcloud/richdocuments)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/richdocuments?style=social&color=white)](https://github.com/nextcloud/richdocuments/stargazers)  
     *Collabora Online integration backend for Nextcloud.*  
     Enables embedded document editing and collaborative authoring inside the Nextcloud web interface.  
     `Tags:` `#nextcloud #integration #office #richdocuments`
@@ -267,7 +267,7 @@ Contributions are welcome! Help keep this productivity software directory compre
 2. 🔍 Check existing listings to avoid duplicates.
 3. 📝 Follow the formatting standard:
    - For SaaS: include product name, URL, summary, differentiator, company size, and specific pricing and free-tier limits in the comparison table.
-   - For Open-Source: include repository link, star badge (`style=social&color=white`), tags, and primary use cases.
+   - For Open-Source: include repository link, Stars_Badge (`style=social&color=white`), tags, and primary use cases.
 4. 🚀 Open a **Pull Request** with a concise description of the addition.
 
 ---
